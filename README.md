@@ -9,7 +9,7 @@ Trash complaints grow in St. Louis. 'You have to make people know it's not OK.'
 What is this?
 -------------
 
-This repo contains data and code used for the Dec. 30, 2020 (online) and Jan. 3, 2021 (print) St. Louis Post-Dispatch story "Trash complaints grow in St. Louis. 'You have to make people know it's not OK.'" The story was reported and written by [Janelle O'Dea](https://twitter.com/jayohday).
+This repo contains data and code used for the Dec. 30, 2020 (online) and Jan. 3, 2021 (print) [St. Louis Post-Dispatch](https://stltoday.com) story "Trash complaints grow in St. Louis. 'You have to make people know it's not OK.'" The story was reported and written by [Janelle O'Dea](https://twitter.com/jayohday).
 
 Assumptions
 -----------
