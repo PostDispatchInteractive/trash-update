@@ -31,7 +31,7 @@ def parse_coord(coord_string):
 def neighborhoods(data,sf):
 
 	with open(data) as infile:
-		with open('csb-1112-62722-combined-cleaned-nhoods.csv','w') as outfile:
+		with open('csb-1112-62722-combined-cleaned-nhoods-old-codes.csv','w') as outfile:
 			reader = csv.reader(infile)
 			writer = csv.writer(outfile)
 			header = next(reader)
@@ -44,4 +44,4 @@ def neighborhoods(data,sf):
 
 	print("done")
 
-neighborhoods('csb-1112-62722-combined-coords.csv', 'hoods.shp')
+neighborhoods('csb-1112-62722-combined-coords-old-codes.csv', 'hoods.shp')
